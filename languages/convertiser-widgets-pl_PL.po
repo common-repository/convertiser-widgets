@@ -1,0 +1,400 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Convertiser Widgets\n"
+"POT-Creation-Date: 2016-09-19 05:32+0200\n"
+"PO-Revision-Date: 2016-09-19 05:33+0200\n"
+"Last-Translator: \n"
+"Language-Team: Convertiser Team <team@convertiser.com>\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: convertiser-widgets.php:55 convertiser-widgets.php:62
+#: includes/class-convertiser-widgets-notices.php:103
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/class-convertiser-widgets-help.php:53
+msgid "Price Comparison"
+msgstr ""
+
+#: includes/class-convertiser-widgets-help.php:59
+msgid "Products Recommendations"
+msgstr ""
+
+#: includes/class-convertiser-widgets-install.php:46
+msgid ""
+"<strong>Convertiser Widgets</strong> plugin could not be activated because "
+"it requires WordPress (v4.5+) to be installed."
+msgstr ""
+
+#: includes/class-convertiser-widgets-install.php:174
+msgid "View Settings"
+msgstr ""
+
+#: includes/class-convertiser-widgets-install.php:174
+msgid "Settings"
+msgstr ""
+
+#: includes/class-convertiser-widgets-install.php:190
+msgid "View Plugin Documentation"
+msgstr ""
+
+#: includes/class-convertiser-widgets-install.php:190
+msgid "Docs"
+msgstr ""
+
+#: includes/class-convertiser-widgets-install.php:191
+msgid "Support"
+msgstr ""
+
+#: includes/class-convertiser-widgets-menus.php:32
+msgid "Settings &#8212; Convertiser Widgets"
+msgstr ""
+
+#: includes/class-convertiser-widgets-menus.php:33
+msgid "Convertiser Widgets"
+msgstr ""
+
+#: includes/class-convertiser-widgets-notices.php:38
+msgid ""
+"<strong>Convertiser Widgets</strong> plugin could not be activated because "
+"it requires WordPress version 4.5 or greater."
+msgstr ""
+
+#: includes/class-convertiser-widgets-notices.php:54
+msgid ""
+"The <strong>Convertiser Widgets</strong> plugin requires <strong>Website "
+"GUID</strong> to be provided to get started using the plugin."
+msgstr ""
+
+#: includes/class-convertiser-widgets-notices.php:99
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: includes/class-convertiser-widgets-settings.php:136
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr ""
+
+#: includes/class-convertiser-widgets-settings.php:581
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:24
+msgid "Price Comparison Widget"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:38
+msgid "Thin"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:39
+msgid "Normal"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:40
+msgid "Bold"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:41
+msgid "Bolder"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:45
+msgid "red"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:46
+msgid "pink"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:47
+msgid "purple"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:48
+msgid "deep-purple"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:49
+msgid "indigo"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:50
+msgid "blue"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:51
+msgid "black"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:52
+msgid "light-blue"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:53
+msgid "cyan"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:54
+msgid "teal"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:55
+msgid "green"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:56
+msgid "light-green"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:57
+msgid "lime"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:58
+msgid "yellow"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:59
+msgid "amber"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:60
+msgid "orange"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:61
+msgid "deep-orange"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:62
+msgid "brown"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:63
+msgid "grey"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:64
+msgid "blue-grey"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:68
+msgid "Unlimited"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:78
+msgid "Price Comparison Widget Settings"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:78
+msgid "Configure default behaviour for price comparison widget."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:81
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:42
+#: includes/settings/class-convertiser-widgets-settings-recommendations.php:42
+msgid "Enable widget"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:90
+msgid "Enable WooCommerce integration"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:99
+msgid "Show product gallery"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:108
+msgid "Show borders"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:117
+msgid "Show retailer logo"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:127
+msgid "Retailer name font color"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:137
+msgid "Retailer name font weight"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:147
+msgid "Price font color"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:157
+msgid "Price font weight"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:167
+msgid "Limit results"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:168
+msgid "Optionally limit number of price offers."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:177
+msgid "Order results by price"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:184
+msgid "Ascending"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-comparison.php:185
+msgid "Descending"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:24
+msgid "Contextual Ads"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:39
+msgid "Contextual Ads Widget Settings"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:39
+msgid "Configure default behaviour for contextual ads widget."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:51
+msgid "Automated links affiliation"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:52
+msgid ""
+"Convertiser scans your website content and detects links that leads to a "
+"products or merchants from our portfolio and converts them into affiliated "
+"links."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:60
+msgid "Contextual links insertion"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:61
+msgid ""
+"Convertiser detects merchants, brands and product references on your website "
+"and turns them into links that guides your users to the most relevant "
+"retailers where they can purchase the mentioned items."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:69
+msgid "Links density"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:71
+msgid ""
+"Link density is determined by the number of links added as a ratio of the "
+"amount of text on a page."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:76
+msgid "Maximum"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:77
+msgid "Optimum"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:78
+msgid "Minimum"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:85
+msgid "Advanced Settings"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:85
+msgid ""
+"Warning! This are advanced settings. Do not change if you are not sure what "
+"you are doing."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:88
+msgid "Include by CSS class"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:89
+msgid ""
+"Comma separated list of css classes which will be used to include site areas "
+"from widget."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:98
+msgid "Ignore by CSS class"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:99
+msgid ""
+"Comma separated list of css classes which will be used to exclude site areas "
+"from widget."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:108
+msgid "Ignore domains"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-convertext.php:109
+msgid ""
+"Comma separated list of domains that will be ignored by automatic links "
+"affiliation."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:24
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:39
+msgid "Website Settings"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:39
+msgid "Setup website access to Convertiser."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:42
+msgid "Website GUID"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:43
+msgid ""
+"Website GUID is available on website details page at your Convertiser "
+"account."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:52
+msgid "Display Verification Code"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-general.php:53
+msgid ""
+"Automatically displays verification code to simplify domain ownership "
+"verification as Convertiser."
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-recommendations.php:24
+msgid "Products Recommendations Widget"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-recommendations.php:39
+msgid "Products Recommendations Widget Settings"
+msgstr ""
+
+#: includes/settings/class-convertiser-widgets-settings-recommendations.php:39
+msgid "Configure default behaviour for products recommendations widget."
+msgstr ""
